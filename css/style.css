@@ -1,11 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@500&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@300&display=swap');
 
 header {
     background-color : #444343;
     position: relative;
 }
 
+section h2 {
+    font-size: 35px;
+    margin: auto;
+}
 
 main>section {
     display: grid;
@@ -57,6 +60,7 @@ section p {
     overflow: scroll;    
     font-style: italic;
     font-family: 'Mukta', sans-serif;
+
 }
 
 main section section p {
